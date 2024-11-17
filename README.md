@@ -1,0 +1,2 @@
+# KursBash
+learing bash
