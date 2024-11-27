@@ -19,3 +19,4 @@ echo
 echo "Uzycie []"
 res=$[x+y]
 echo $res
+echo "test"
